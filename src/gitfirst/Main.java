@@ -8,7 +8,7 @@ public class Main {
 		
 		System.out.println("please commit");
 		
-		System.out.println("why it is not push");
+		System.out.println("not good");
 	}
 
 }
